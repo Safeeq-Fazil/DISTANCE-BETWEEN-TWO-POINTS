@@ -8,7 +8,8 @@ import math file
 ### Step 2: 
 Get the values of two list from the user l1 and l2.
 ### Step 3: 
-Substitute the values in the distance formula ![Screenshot (8)](https://user-images.githubusercontent.com/118680361/230773702-af04e04a-af4a-45eb-81c2-9e974868a2e9.png)
+Substitute the values in the distance formula ![image](https://user-images.githubusercontent.com/118680361/230822060-3e09a537-d90b-4693-838a-3ff659d333ed.png)
+
 
 ### Step 4: 
 distance=math.sqrt(((l2[0]-l1[0])**2+((l2[1]-l1[1])**2)))
